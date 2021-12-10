@@ -1,4 +1,4 @@
-# Sistema de segurança |Arduino e IoT
+# Sistema de segurança | Arduino e IoT
 
 O projeto tem como objetivo oferecer um sistema de segurança de custo baixo e eficiente, para empresas de pequeno porte. 
 
