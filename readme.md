@@ -18,5 +18,7 @@ Acadêmicos:
 - Gabriel Machado
 - Jorge Enrique Santos de Lima Takao Nishimura
 
-- UC: Sistemas computacionais e segurança 
-- Faculdade Unisociesc Joinville
+UC: 
+- Sistemas computacionais e segurança 
+Faculdade:
+-  Unisociesc Joinville
