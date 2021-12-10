@@ -20,5 +20,6 @@ Acadêmicos:
 
 UC: 
 - Sistemas computacionais e segurança 
+
 Faculdade:
 -  Unisociesc Joinville
