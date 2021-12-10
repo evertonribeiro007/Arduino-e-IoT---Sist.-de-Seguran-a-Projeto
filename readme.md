@@ -8,7 +8,7 @@ Sistema de detecção de movimento
 Sistema de detecção de fumaça | Gás
 Sistema de avisos sonoros e notificações 
 
-Vídeo de demostração do projeto pode ser encontrado no link abaixo:
+Vídeo de demostração do projeto pode ser encontrado no link:
 https://www.youtube.com/watch?v=A0NmD227lug&list=LL&index=11&ab_channel=EvertonHenriqueSantanaRibeirodeLima
 
 Acadêmicos: 
