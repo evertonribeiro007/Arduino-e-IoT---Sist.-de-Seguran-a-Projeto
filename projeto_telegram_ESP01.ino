@@ -14,7 +14,7 @@
 const unsigned long BOT_MTBS = 1000;
   
 // Você Telegram
-#define CHAT_ID "1404485001"
+#define CHAT_ID "xxxxxxxxxx"
 
 // Variáveis
 String dadosLido;
