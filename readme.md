@@ -13,7 +13,7 @@ Inicialmente será fornecido os seguintes sistemas:
 Acadêmicos: 
 - Augusto Cesar Martins
 - Breno Rezende
-- [Everton Henrique Santana Ribeiro de Lima](www.linkedin.com/in/evertonribeiro007)
+- [Everton Henrique Santana Ribeiro de Lima](https://www.linkedin.com/in/evertonribeiro007)
 - Gabriel Machado
 - Jorge Enrique Santos de Lima Takao Nishimura
 
