@@ -1,11 +1,26 @@
-# 💧Liquid Navigation Menu Indicator
-## [Watch it on youtube](https://youtu.be/argynmjupK8)
-### 💧Liquid Navigation Menu Indicator
+# Sistema de segurança | Arduino e IoT ⚠
+### [Demostração](https://www.youtube.com/watch?v=A0NmD227lug&list=LL&index=11&ab_channel=EvertonHenriqueSantanaRibeirodeLima) | [Apresentação](https://view.genial.ly/6196384c8bfcf70d8acf1cf4/presentation-geniaflix-presentation)
 
-- Liquid Navigation Menu Indicator Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+O projeto tem como objetivo oferecer um sistema de segurança de custo baixo e eficiente, para empresas de pequeno porte. 
 
-✔ Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+Inicialmente será fornecido os seguintes sistemas:
+
+- Sistema de detecção de movimento
+- Sistema de detecção de fumaça | Gás
+- Sistema de avisos sonoros e notificações 
+
+
+Acadêmicos: 
+- Augusto Cesar Martins
+- Breno Rezende
+- [Everton Henrique Santana Ribeiro de Lima](https://www.linkedin.com/in/evertonribeiro007)
+- Gabriel Machado
+- Jorge Enrique Santos de Lima Takao Nishimura
+
+UC: 
+- Sistemas computacionais e segurança 
+
+Faculdade:
+-  Unisociesc Joinville
+
 
